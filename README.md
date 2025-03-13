@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijay</h1>
-<h3 align="center">A passionate software developer from India with 2 years of experience in C++, C#, Java, and JavaScript, specializing in software development and design.</h3>
+<h3 align="center">A passionate software developer from India with 2 years of experience in C++, C#, Java, and JavaScript, specializing in software development and design</h3>
 
 - 🔭 I’m currently working on **AI fitness Planner**
 
